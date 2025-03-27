@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Newbie
+- ⚡ Fun fact: I'm Begineer
 
 <!---
 NeroFayer/NeroFayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
